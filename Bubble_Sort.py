@@ -57,7 +57,7 @@ def Comparator_List(T):
 	print('Good Work!')
 
 def main():
-	T = 5000000
+	T = 50
 	Comparator_List(T)
 
 if __name__ == '__main__':
