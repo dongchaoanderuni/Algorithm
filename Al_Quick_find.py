@@ -37,7 +37,7 @@ Weighted quick-union analysis
 
 
 def main():
-	pass
+	UUni_find(M)
 
 if __name__ == '__main__':
 	main()
